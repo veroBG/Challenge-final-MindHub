@@ -27,7 +27,7 @@ Como **testers QA** del proyecto, nuestro objetivo fue probar la primera versió
 
 ## Otras tecnologías
 * 📋 Gestión de Proyectos: Confluence, Jira.
-* ⚙️ Pruebas de Software: Katalon, JMeter.
+* ⚙️ Pruebas de Software: Katalon, Selenium, JMeter.
 * 🖊️ Diagramación y Visualización:Lucidchart.
 
 ### **Conclusiones ✅**
