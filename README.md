@@ -3,7 +3,7 @@
 # 💻 Home Banking Web App 
 
 ## 📌 Alcance del proyecto
-Como **testers QA** del proyecto, nuestro objetivo fue probar la primera versión de la aplicación de home banking en el enlace proporcionado: [Home Banking - Versión Inicial](https://homebankig-frontend.onrender.com/login) donde realizamos una serie de pruebas para verificar si la pagina podía o no salir a producción.
+Como **testers QA** del proyecto, nuestro objetivo fue probar la primera versión de la aplicación de home banking en el enlace proporcionado: [Home Banking - Versión Inicial](https://homebankig-frontend.onrender.com) donde realizamos una serie de pruebas para verificar si la pagina podía o no salir a producción.
 
 **Lo que probamos:**
 - **Registro de cuenta**: Verificación de los formularios de creación, inicio de sesión y eliminación de cuentas.
